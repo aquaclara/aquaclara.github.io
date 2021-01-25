@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://aquaclara.github.io/sitemap.xml
